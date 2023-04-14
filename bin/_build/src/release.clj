@@ -22,6 +22,7 @@
    :upload-uberjar                      uberjar/upload-uberjar!
    :push-git-tags                       git-tags/push-tags!
    :publish-draft-release               draft-release/create-draft-release!
+   :update-heroku-buildpack             heroku/update-heroku-buildpack!
    :publish-elastic-beanstalk-artifacts eb/publish-elastic-beanstalk-artifacts!
    :update-version-info                 version-info/update-version-info!))
 
